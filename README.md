@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gregbartels
-- 👀 I’m interested in ... HAM RADIO, coding and learn to programm everty day
+- 👀 I’m interested in ... HAM RADIO, coding and learn to program everty day
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... python projects
 - 📫 How to reach me ... 
